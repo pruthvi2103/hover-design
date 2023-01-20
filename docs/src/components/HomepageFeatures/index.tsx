@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require("@site/static/img/hover_logo_letters.svg").default,
     description: (
       <>
-        Hover focuses on easy to use battries included method, so use it as you
+        Hover focuses on easy to use batteries included method, so use it as you
         would use a native element, no need to learn fancy complex apis to do
         simple things.
       </>
